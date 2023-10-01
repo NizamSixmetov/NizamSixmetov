@@ -1,4 +1,4 @@
-## Hi, my name is Nizam.👨🏼‍💻 I'm a frontend developer.<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjc1ZXl6bGdqYnd4bWh5cTI1amJjaGltMThwMXkxbzc0NXY5ZnZzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" allowFullScreen></img><p><a href="https://giphy.com/gifs/selfcare-the-app-tru-luv-WUlplcMpOCEmTGBtBW"></a></p>
+## Hi, my name is Nizam.👨🏼‍💻 I'm a frontend developer.<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjc1ZXl6bGdqYnd4bWh5cTI1amJjaGltMThwMXkxbzc0NXY5ZnZzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></img><p><a href="https://giphy.com/gifs/selfcare-the-app-tru-luv-WUlplcMpOCEmTGBtBW"></a></p>
 <!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
 <p align="center">
