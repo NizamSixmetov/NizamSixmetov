@@ -1,5 +1,4 @@
 [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov)
-
 ## Hi, I'm a frontend developer.
 
 ## Languages and Tools:
@@ -19,4 +18,3 @@
 ![NizamSixmetov GitHub stats](https://github-readme-stats.vercel.app/api?username=NizamSixmetov&account_private=true&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamSixmetov&account_private=true)]
-
