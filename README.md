@@ -1,5 +1,5 @@
-## Hi my name is Nizam. I'm a frontend developer.
-[![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov)
+## Hi, my name is Nizam. I'm a frontend developer.
+<!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
 <p align="center">
  <img width="600" src="./assets/icons/github-snake.svg" alt="snake"/>
