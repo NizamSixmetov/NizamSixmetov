@@ -1,11 +1,11 @@
-## Hi, my name is Nizam. I'm a frontend developer.
+## Hi, my name is Nizam.👨🏼‍💻 I'm a frontend developer.
 <!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
 <p align="center">
  <img width="600" src="./assets/icons/github-snake.svg" alt="snake"/>
 </p>
 
-## Languages and Tools:
+## 💻 Languages and 🛠 Tools:
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logocolor=#E34F26)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logocolor=#1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
@@ -14,12 +14,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logocolor=#339933)
 
 
-## Follow Me:
+## 🤝 Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/shikhmetov_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/shikhmetov)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
 
-GitHub statistics:
+⚙️ GitHub statistics:
 
 <table>
   <tr>
