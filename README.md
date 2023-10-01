@@ -43,3 +43,6 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamSixmetov&countColor=%23263759)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NizamSixmetov)
+
+
+<!-- My personal information -->
