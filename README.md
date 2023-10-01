@@ -1,6 +1,10 @@
 [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov)
 ## Hi, I'm a frontend developer.
 
+<p align="center">
+ <img width="600" src="./assets/icons/github-snake.svg" alt="snake"/>
+</p>
+
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logocolor=#E34F26)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logocolor=#1572B6)
