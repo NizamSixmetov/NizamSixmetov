@@ -1,4 +1,4 @@
-## Hi, my name is Nizam.👨🏼‍💻 I'm a frontend developer. src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+## Hi, my name is Nizam.👨🏼‍💻 I'm a frontend developer. src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30px">
 <!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
 <p align="center">
