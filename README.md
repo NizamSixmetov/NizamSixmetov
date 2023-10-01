@@ -19,6 +19,18 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/shikhmetov)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
 
-![NizamSixmetov GitHub stats](https://github-readme-stats.vercel.app/api?username=NizamSixmetov&account_private=true&show_icons=true&theme=merko)
+GitHub statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamSixmetov&account_private=true)]
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=NizamSixmetov&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NizamSixmetov&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+<!-- ![NizamSixmetov GitHub stats](https://github-readme-stats.vercel.app/api?username=NizamSixmetov&account_private=true&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamSixmetov&account_private=true)] -->
