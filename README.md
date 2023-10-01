@@ -1,9 +1,9 @@
 ## Hi, my name is Nizam.👨🏼‍💻 I'm a frontend developer.<img src='./assets/icons/giphy.webp' width='30px'>
 <!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
-## 🫚 Обо мне: 
+## 🫚 About Me: 
 
-I am a novice web developer. My path to it began with admission to Dagestan State University. After studying for 4 years in Dagestan, I returned to my homeland to serve in the ranks of the army of the Republic of Azerbaijan. After a year of gap, I started studying programming again and joined the Jedi Academy. At the moment, my training in the course has been completed and I am looking for a job.
+I am a novice web developer. My path to it began with admission to Dagestan State University. After studying for 4 years in Dagestan, I returned to my homeland to serve in the ranks of the army of the Republic of Azerbaijan. After a year of gap, I started studying programming again and joined the JedAcademy. At the moment, my training in the course has been completed and I am looking for a job.
 
 <p align="center">
  <img width="600" src="./assets/icons/github-snake.svg" alt="snake"/>
