@@ -39,4 +39,6 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamSixmetov&account_private=true)] -->
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamSixmetov&countColor=%23263759)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NizamSixmetov)
