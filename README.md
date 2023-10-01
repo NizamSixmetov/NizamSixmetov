@@ -15,3 +15,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/shikhmetov_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/shikhmetov)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
+
+![NizamSixmetov GitHub stats](https://github-readme-stats.vercel.app/api?username=NizamSixmetov&account_private=true&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamSixmetov&account_private=true)]
+
