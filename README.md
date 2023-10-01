@@ -38,3 +38,5 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 <!-- ![NizamSixmetov GitHub stats](https://github-readme-stats.vercel.app/api?username=NizamSixmetov&account_private=true&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamSixmetov&account_private=true)] -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NizamSixmetov)
