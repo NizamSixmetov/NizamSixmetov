@@ -37,7 +37,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
   </tr>
   <tr>
     <td>
-      <img height="30px" align="right" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamSixmetov&countColor=%23263759" />
+      <img height="30px" width="60px" align="right" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamSixmetov&countColor=%23263759" />
     </td>
   </tr>
 </table>
