@@ -35,12 +35,8 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NizamSixmetov&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img height="15px" width="30px" align="right" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamSixmetov&countColor=%23263759" />
-    </td>
-  </tr>
 </table>
+<img height="15px" width="30px" align="left" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamSixmetov&countColor=%23263759" />
 <!-- ![NizamSixmetov GitHub stats](https://github-readme-stats.vercel.app/api?username=NizamSixmetov&account_private=true&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamSixmetov&account_private=true)] -->
