@@ -19,6 +19,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logocolor=#181717)
 ![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
+![Shields.io](https://img.shields.io/badge/-Shields.io-090909?style=for-the-badge&logo=shields.io)
 
 
 
