@@ -36,7 +36,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
       <img align="left" src="https://camo.githubusercontent.com/f6c1da3e78e4568d870a52e1f93766933f2e8139dc6a21d8995c1cbc191c21a7/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4e697a616d5369786d65746f76267468656d653d6461726b266261636b67726f756e643d303030303030" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NizamSixmetov&layout=compact&theme=vision-friendly-dark" />
+      
     </td>
   </tr>
 </table>
