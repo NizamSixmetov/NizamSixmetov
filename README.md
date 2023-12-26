@@ -42,7 +42,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 
 ## 🎖️ Projects:
 [![react](https://img.shields.io/badge/_Afn_Transport-090909?styles-for-the-badge&logo=react)](https://afn-transport.vercel.app/)
-[![html5&css3](https://img.shields.io/badge/_Master_Stroy-090909?styles-for-the-badge&logo=html5](https://master-stroy.vercel.app/)
+[![html5](https://img.shields.io/badge/_Master_Stroy-090909?styles-for-the-badge&logo=html5](https://master-stroy.vercel.app/)
 
 ## ⚙️ GitHub statistics:
 
