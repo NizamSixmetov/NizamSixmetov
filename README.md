@@ -26,7 +26,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![Mui](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui)
 ![Swiper](https://img.shields.io/badge/-swiper-090909?style=for-the-badge&logo=swiper)
 ![AOS](https://img.shields.io/badge/-aos-090909?style=for-the-badge&logo=aos)
-![Module Css](https://img.shields.io/badge/-css_modules-090909?style=for-the-badge&logo=cssmodules&logoColor=000000)
+![Module Css](https://img.shields.io/badge/-css_modules-090909?style=for-the-badge&logo=cssmodules&logoColor=fffff)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![vercel](https://img.shields.io/badge/-vercel-090909?style=for-the-badge&logo=vercel&logoColor=9B2321)
 ![jsonl](https://img.shields.io/badge/-json_server-090909?style=for-the-badge&logo=json&logoColor=007531)
