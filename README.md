@@ -22,7 +22,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![Shields.io](https://img.shields.io/badge/-Shields.io-090909?style=for-the-badge&logo=shields.io)
 ![jsx](https://img.shields.io/badge/-jsx-090909?style=for-the-badge&logo=jsx)
 ![Vite.jsx](https://img.shields.io/badge/-vite-090909?style=for-the-badge&logo=vite)
-![tsx](https://img.shields.io/badge/-tsx-090909?style=for-the-badge&logo=tsx)
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 ![Mui](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui)
 ![Swiper](https://img.shields.io/badge/-swiper-090909?style=for-the-badge&logo=swiper)
 ![AOS](https://img.shields.io/badge/-aos-090909?style=for-the-badge&logo=aos)
