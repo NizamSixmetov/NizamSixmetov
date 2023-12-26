@@ -16,7 +16,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=339933)
-![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=181717)
+![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=FFFFF)
 ![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 ![Shields.io](https://img.shields.io/badge/-Shields.io-090909?style=for-the-badge&logo=shields.io)
