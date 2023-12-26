@@ -23,6 +23,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![jsx](https://img.shields.io/badge/-jsx-090909?style=for-the-badge&logo=jsx)
 ![Vite.jsx](https://img.shields.io/badge/-vite-090909?style=for-the-badge&logo=vite)
 ![tsx](https://img.shields.io/badge/-tsx-090909?style=for-the-badge&logo=tsx)
+![Mui](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui)
 
 ## 🤝 Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/shikhmetov_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
