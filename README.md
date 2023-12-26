@@ -41,7 +41,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
 
 ## 🎖️ Projects:
-[![Afn-Transport](https://img.shields.io/badge/saltproject-090909?styles-for-the-badge&logo=saltproject)](https://afn-transport.vercel.app/)
+[![saltproject](https://img.shields.io/badge/saltproject-090909?styles-for-the-badge&logo=saltproject)](https://afn-transport.vercel.app/)
 
 ## ⚙️ GitHub statistics:
 
