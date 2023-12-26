@@ -39,6 +39,8 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/shikhmetov_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/shikhmetov)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
+## 🎖️ Projects:
+[![Afn-Transport](https://afn-transport.vercel.app/)]
 
 ## ⚙️ GitHub statistics:
 
