@@ -32,8 +32,8 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![jsonl](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
 ![axios](https://img.shields.io/badge/-axios-090909?style=for-the-badge&logo=axios)
 ![reactrouter](https://img.shields.io/badge/-react_router-090909?style=for-the-badge&logo=reactrouter)
-![framer](https://img.shields.io/badge/-framer-3448C5?style=for-the-badge&logo=framer)
-![cloudinary](https://img.shields.io/badge/-cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
+![framer](https://img.shields.io/badge/-framer-090909?style=for-the-badge&logo=framer)
+![cloudinary](https://img.shields.io/badge/-cloudinary-090909?style=for-the-badge&logo=cloudinary)
 
 ## 🤝 Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/shikhmetov_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
