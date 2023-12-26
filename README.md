@@ -10,8 +10,8 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 </p>
 
 ## 💻 Languages and 🛠 Tools:
-![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logocolor=#E34F26)
-![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logocolor=#1572B6)
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logocolor=E34F26)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logocolor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logocolor=#7952B3)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logocolor=#339933)
