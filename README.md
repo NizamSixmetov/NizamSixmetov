@@ -10,13 +10,13 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 </p>
 
 ## 💻 Languages and 🛠 Tools:
-![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logocolor=E34F26)
-![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logocolor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logocolor=#7952B3)
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logocolor=#339933)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logocolor=#339933)
-![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logocolor=#181717)
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=#7952B3)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=#339933)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=#339933)
+![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=#181717)
 ![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 ![Shields.io](https://img.shields.io/badge/-Shields.io-090909?style=for-the-badge&logo=shields.io)
