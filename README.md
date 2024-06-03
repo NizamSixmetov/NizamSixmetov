@@ -11,6 +11,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 
 ## 💻 Languages and 🛠 Tools:
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Module Css](https://img.shields.io/badge/-css_modules-090909?style=for-the-badge&logo=cssmodules&logoColor=fffff)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -33,7 +34,6 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![Redux](https://img.shields.io/badge/redux-%23000000.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Swiper](https://img.shields.io/badge/-swiper-090909?style=for-the-badge&logo=swiper&logoColor=6332F6)
 ![AOS](https://img.shields.io/badge/-aos-090909?style=for-the-badge&logo=dask&logoColor=FC6E6B)
-![Module Css](https://img.shields.io/badge/-css_modules-090909?style=for-the-badge&logo=cssmodules&logoColor=fffff)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![jsonl](https://img.shields.io/badge/-json_server-090909?style=for-the-badge&logo=json&logoColor=007531)
