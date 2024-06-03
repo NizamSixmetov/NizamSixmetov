@@ -40,6 +40,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![reactrouter](https://img.shields.io/badge/-react_router-090909?style=for-the-badge&logo=reactrouter)
 ![framer](https://img.shields.io/badge/-framer-090909?style=for-the-badge&logo=framer&logoColor=0055FF)
 ![cloudinary](https://img.shields.io/badge/-cloudinary-090909?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ## 🤝 Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/shikhmetov_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
