@@ -19,6 +19,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=339933)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=FFFFF)
 ![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
