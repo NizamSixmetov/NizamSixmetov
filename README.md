@@ -35,7 +35,6 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=FFFFF)
-![Vite.jsx](https://img.shields.io/badge/-vite-090909?style=for-the-badge&logo=vite)
 ![Swiper](https://img.shields.io/badge/-swiper-090909?style=for-the-badge&logo=swiper&logoColor=6332F6)
 ![AOS](https://img.shields.io/badge/-aos-090909?style=for-the-badge&logo=dask&logoColor=FC6E6B)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
