@@ -10,6 +10,12 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 </p>
 
 ## 💻 Languages and 🛠 Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=339933)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![jsx](https://img.shields.io/badge/-jsx-090909?style=for-the-badge&logo=jsx)
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![Module Css](https://img.shields.io/badge/-css_modules-090909?style=for-the-badge&logo=cssmodules&logoColor=fffff)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -21,16 +27,11 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 ![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic)
 ![Shields.io](https://img.shields.io/badge/-Shields.io-090909?style=for-the-badge&logo=shields.io)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=339933)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=FFFFF)
-![jsx](https://img.shields.io/badge/-jsx-090909?style=for-the-badge&logo=jsx)
 ![Vite.jsx](https://img.shields.io/badge/-vite-090909?style=for-the-badge&logo=vite)
-![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Redux](https://img.shields.io/badge/redux-%23000000.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Swiper](https://img.shields.io/badge/-swiper-090909?style=for-the-badge&logo=swiper&logoColor=6332F6)
 ![AOS](https://img.shields.io/badge/-aos-090909?style=for-the-badge&logo=dask&logoColor=FC6E6B)
