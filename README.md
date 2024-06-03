@@ -12,7 +12,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ## 💻 Languages and 🛠 Tools:
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?%23000000?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
