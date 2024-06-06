@@ -64,8 +64,9 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamsixmetov&layout=compact"
     </td>
      <td>
-      [![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=NizamSixmetov&count_private=true)](https://github.com/arribass/github-readme-stats)
-     </td>
+[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=arribass&count_private=true)](https://github.com/arribass/github-readme-stats)
+
+[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arribass)](https://github.com/arribass/github-readme-stats)     </td>
     <td>
     
   </tr>
