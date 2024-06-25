@@ -25,6 +25,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=#3B00B9&logoColor=white)
 ![jsonl](https://img.shields.io/badge/-json_server-090909?style=for-the-badge&logo=json&logoColor=007531)
 ![axios](https://img.shields.io/badge/-axios-090909?style=for-the-badge&logo=axios&logoColor=5A29E4)
 ![cloudinary](https://img.shields.io/badge/-cloudinary-090909?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
