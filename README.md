@@ -55,9 +55,18 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
 
 ## 🎖️ Projects:
-[![react](https://img.shields.io/badge/_Afn_Transport-090909?styles-for-the-badge&logo=react)](https://afn-transport.vercel.app/)
-[![react](https://img.shields.io/badge/_Arch_Baku-090909?styles-for-the-badge&logo=react)](https://arch-baku-ecru.vercel.app/)
-[![#141526](https://img.shields.io/badge/_Internet_Speed-090909?styles-for-the-badge&logo=Speedtest)](https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/)
+<a href="https://afn-transport.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/_Afn_Transport-090909?styles-for-the-badge&logo=react" alt="Afn Transport">
+</a>
+
+<a href="https://arch-baku-ecru.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/_Arch_Baku-090909?styles-for-the-badge&logo=react" alt="Arch Baku">
+</a>
+
+<a href="https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/_Internet_Speed-090909?styles-for-the-badge&logo=Speedtest" alt="Internet Speed Test">
+</a>
+
 
 ## ⚙️ GitHub statistics:
 
