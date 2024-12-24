@@ -60,7 +60,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 [![react](https://img.shields.io/badge/_Arch_Baku-090909?styles-for-the-badge&logo=react)](https://arch-baku-ecru.vercel.app/ "Откроется в новой вкладке")
 [![#141526](https://img.shields.io/badge/_Internet_Speed-090909?styles-for-the-badge&logo=Speedtest)](https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/ "Откроется в новой вкладке")
 
-#### ⚠️Please press Ctrl + Mouse Click (open in new tab)
+##### ⚠️Please press Ctrl + Mouse Click (open in new tab)
 
 
 ## ⚙️ GitHub statistics:
