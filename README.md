@@ -57,7 +57,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ## 🎖️ Projects:
 <a target="_blank">
 [![react](https://img.shields.io/badge/_Afn_Transport-090909?styles-for-the-badge&logo=react)](https://afn-transport.vercel.app/)
-<a/>
+</a>
 [![react](https://img.shields.io/badge/_Arch_Baku-090909?styles-for-the-badge&logo=react)](https://arch-baku-ecru.vercel.app/)
 [![#141526](https://img.shields.io/badge/_Internet_Speed-090909?styles-for-the-badge&logo=Speedtest)](https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/)
 
