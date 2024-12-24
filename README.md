@@ -63,6 +63,9 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ##### ⚠️Please press Ctrl + Mouse Click (open in new tab)
 
 
+
+
+
 ## ⚙️ GitHub statistics:
 
 <table>
