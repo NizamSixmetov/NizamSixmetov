@@ -73,6 +73,6 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
     </td>
   </tr>
 </table> -->
-<img height="25px" width="90px" align="left" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamSixmetov&countColor=%23263759" />
+<img height="25px" width="90px" align="left" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNizamsixmetov&countColor=%23263759" />
 
 <!-- My personal information -->
