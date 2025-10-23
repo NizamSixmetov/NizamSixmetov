@@ -69,7 +69,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 <!-- <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNizamsixmetov&layout=compact"   lkjjklhdgxhckj
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNizamsixmetov&layout=compact"
     </td>
   </tr>
 </table> -->
