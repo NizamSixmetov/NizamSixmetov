@@ -56,7 +56,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 
 ## 🎖️ Projects:
 
-<a href="https://arch-baku-ecru.vercel.app/" >
+<a href="https://askexperts-phi.vercel.app/" >
   <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="100" height="100">
 </a>         
 <a href="https://studiova-ivory.vercel.app//" >
