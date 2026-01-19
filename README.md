@@ -55,7 +55,8 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
 
 ## 🎖️ Projects:
-[![react](https://img.shields.io/badge/_Afn_Transport-090909?styles-for-the-badge&logo=react&scale=1.6)](https://afn-transport.vercel.app/ "Откроется в новой вкладке")
+[[![react](https://img.shields.io/badge/_Afn_Transport-090909?styles-for-the-badge&logo=react&scale=1.6)](https://afn-transport.vercel.app/ "Откроется в новой вкладке")(https://img.shields.io/badge/_Afn_Transport-090909?style=for-the-badge&logo=react&scale=1.6)
+
 [![react](https://img.shields.io/badge/_Arch_Baku-090909?styles-for-the-badge&logo=react)](https://arch-baku-ecru.vercel.app/ "Откроется в новой вкладке")
 
 [![Next.js](https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js)](https://askexperts-phi.vercel.app/)
