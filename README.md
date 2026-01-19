@@ -57,7 +57,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ## 🎖️ Projects:
 
 <a href="https://devera.az/" >
-  <img src="https://img.shields.io/badge/_DevEra-000000?styles-for-the-badge&logo=next.js" width="100" height="100">
+  <img src="https://img.shields.io/badge/_DevEra-000000?styles-for-the-badge&logo=next.js" width="80" height="80">
 </a>
 <a href="https://studiova-ivory.vercel.app/" >
   <img src="https://img.shields.io/badge/_Studinova-000000?styles-for-the-badge&logo=next.js" width="100" height="100">
