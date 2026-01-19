@@ -67,15 +67,15 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 </a>         
 <br/>
 <br/>
-<a href="https://afn-transport.vercel.app/" >
+<a style="text-decoration: none;" href="https://afn-transport.vercel.app/" >
   <img src="https://img.shields.io/badge/Afn_Transport-090909?style=for-the-badge&logo=react" height="60">
 </a>
-<a href="https://arch-baku-ecru.vercel.app/" >
+<a style="text-decoration: none;" href="https://arch-baku-ecru.vercel.app/" >
   <img src="https://img.shields.io/badge/Arch_Baku-090909?style=for-the-badge&logo=react" height="60">
 </a>
 <br/>
 <br/>
-<a href="https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/" >
+<a style="text-decoration: none;" href="https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/" >
   <img src="https://img.shields.io/badge/Internet_Speed_Test-090909?style=for-the-badge&logo=Speedtest" height="60">
 </a>
 
