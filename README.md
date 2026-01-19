@@ -68,10 +68,9 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 </a>
 <a href="https://askexperts-phi.vercel.app/" >
  <div>
-  <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="100" height="100" style="display:block;">
+  <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="120" height="120" style="display:block;">
  </div>
 </a>         
-<br/>
 <br/>
 <a href="https://afn-transport.vercel.app/" >
  <div>
@@ -83,7 +82,6 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
   <img src="https://img.shields.io/badge/Arch_Baku-090909?style=for-the-badge&logo=react" height="60" style="display:block;">
  </div>
 </a>
-<br/>
 <br/>
 <a href="https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/" >
  <div>
