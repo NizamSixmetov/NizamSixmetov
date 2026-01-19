@@ -68,7 +68,7 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 </a>
 <a href="https://askexperts-phi.vercel.app/" >
  <div>
-  <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="120" height="120" style="display:block;">
+  <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="110" height="110" style="display:block;">
  </div>
 </a>         
 <br/>
