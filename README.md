@@ -57,10 +57,10 @@ I am a novice web developer. My path to it began with admission to Dagestan Stat
 ## 🎖️ Projects:
 
 <a href="https://arch-baku-ecru.vercel.app/" >
-  <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="150" height="150">
+  <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="120" height="120">
 </a>         
 <a href="https://studiova-ivory.vercel.app//" >
-  <img src="https://img.shields.io/badge/_Studinova-000000?styles-for-the-badge&logo=next.js" height="150">
+  <img src="https://img.shields.io/badge/_Studinova-000000?styles-for-the-badge&logo=next.js" width="120" height="120">
 </a>
 <br/>
 <br/>
