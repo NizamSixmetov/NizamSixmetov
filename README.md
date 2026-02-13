@@ -4,10 +4,12 @@
 ## 👨🏼‍💻 About Me: 
 <!--
 I am a novice web developer. My path to it began with admission to Dagestan State University. After studying for 4 years in Dagestan, I returned to my homeland to serve in the ranks of the army of the Republic of Azerbaijan. After a year of gap, I started studying programming again and joined the JedAcademy. At the moment, my training in the course has been completed and I am looking for a job.-->
-Hi! I’m Nizam, a Front-End Web Developer who loves turning ideas into interactive web experiences. I enjoy crafting clean, responsive, and user-friendly interfaces using JavaScript, React, Next.js, and modern web tools.
-
-I’m passionate about learning new technologies, improving my skills, and building projects that solve real-world problems. Always curious, always coding, and always aiming to make the web a more beautiful place.
-
+Front-end Developer with over 2 years of commercial experience building dynamic, responsive
+web applications. I am proficient in React.js, TypeScript, Next.js, and modern CSS frameworks. I
+also hold back-end development skills in C# and ASP.NET , enabling effective cross-team
+collaboration. With hands-on experience at 5 companies — from startups to ERP systems — I
+consistently deliver clean and maintainable UI solutions. I've also mentored the next generation
+of developers as an instructor.
 <p align="center">
  <img width="600" src="./assets/icons/github-snake.svg" alt="snake"/>
 </p>
