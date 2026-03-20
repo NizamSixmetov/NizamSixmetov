@@ -126,7 +126,7 @@ of developers as an instructor.
 </td>
 <td align="left">
  
-<a href="https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/">
+<a href="https://internet-speed-test-basic.vercel.app">
 <div><img src="https://img.shields.io/badge/Internet_Speed_Test-090909?style=for-the-badge&logo=Speedtest" height="60"></div>
 </a>
 
