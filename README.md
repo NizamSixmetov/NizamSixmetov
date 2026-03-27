@@ -134,6 +134,10 @@ of developers as an instructor.
 <div><img src="https://img.shields.io/badge/Internet_Speed_Test-090909?style=for-the-badge&logo=Speedtest" height="60"></div>
 </a>
 
+<a href="https://nizam-sixmetov.vercel.app">
+<div><img src="https://img.shields.io/badge/Nizam_Sixmetov-090909?style=for-the-badge&logo=Speedtest" height="60"></div>
+</a>
+
 </td>
 
 </tr>
