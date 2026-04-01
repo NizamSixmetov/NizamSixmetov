@@ -2,8 +2,6 @@
 <!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
 ## 👨🏼‍💻 About Me: 
-<!--
-I am a novice web developer. My path to it began with admission to Dagestan State University. After studying for 4 years in Dagestan, I returned to my homeland to serve in the ranks of the army of the Republic of Azerbaijan. After a year of gap, I started studying programming again and joined the JedAcademy. At the moment, my training in the course has been completed and I am looking for a job.-->
 Front-end Developer with over 2 years of commercial experience building dynamic, responsive
 web applications. I am proficient in React.js, TypeScript, Next.js, and modern CSS frameworks. I
 also hold back-end development skills in C# and ASP.NET , enabling effective cross-team
