@@ -2,7 +2,7 @@
 <!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
 ## 👨🏼‍💻 About Me: 
-Front-end Developer with over 2 years of commercial experience building dynamic, responsive
+Front-end Developer with over 3 years of commercial experience building dynamic, responsive
 web applications. I am proficient in React.js, TypeScript, Next.js, and modern CSS frameworks. I
 also hold back-end development skills in C# and ASP.NET , enabling effective cross-team
 collaboration. With hands-on experience at 5 companies — from startups to ERP systems — I
