@@ -1,5 +1,5 @@
 ## Hi, my name is Nizam. I'm a Front-End Web developer.<img src='./assets/icons/giphy.webp' width='30px'>
-[![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) 
+<!-- [![Header](https://github.com/NizamSixmetov/NizamSixmetov/blob/main/assets/Shikhmetov_Nizam-removebg-preview-removebg-preview.png)](https://github.com/NizamSixmetov) -->
 
 ## 👨🏼‍💻 About Me: 
 Front-end Developer with over 2 years of commercial experience building dynamic, responsive
