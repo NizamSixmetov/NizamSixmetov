@@ -58,40 +58,6 @@ of developers as an instructor.
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/994507530862)
 
 ## 🎖️ Projects:
-
-<!-- <a href="https://devera.az/" >
- <div>
-  <img src="https://img.shields.io/badge/_DevEra-000000?styles-for-the-badge&logo=next.js" width="80" height="80" style="display:block;">
- </div>
-</a>
-<a href="https://studiova-ivory.vercel.app/" >
- <div>
-  <img src="https://img.shields.io/badge/_Studinova-000000?styles-for-the-badge&logo=next.js" width="100" height="100" style="display:block;"> 
- </div>
-</a>
-<a href="https://askexperts-phi.vercel.app/" >
- <div>
-  <img src="https://img.shields.io/badge/_Ask_Experts-000000?styles-for-the-badge&logo=next.js" width="110" height="110" style="display:block;">
- </div>
-</a>          -->
-<!-- <br/> -->
-<!-- <a href="https://afn-transport.vercel.app/" >
- <div>
-  <img src="https://img.shields.io/badge/Afn_Transport-090909?style=for-the-badge&logo=react" height="60" style="display:block;">
- </div>
-</a>
-<a href="https://arch-baku-ecru.vercel.app/" >
- <div>
-  <img src="https://img.shields.io/badge/Arch_Baku-090909?style=for-the-badge&logo=react" height="60" style="display:block;">
- </div>
-</a> -->
-<!-- <br/> -->
-<!-- <a href="https://internet-speed-test-basic-3hwtz29jl-nizams-projects-ece9ec47.vercel.app/" >
- <div>
- <img src="https://img.shields.io/badge/Internet_Speed_Test-090909?style=for-the-badge&logo=Speedtest" height="60" style="display:block;">
- </div>
-</a> -->
-
 <table>
 <tr>
 <td align="left">
@@ -146,15 +112,6 @@ of developers as an instructor.
 
 
 ## ⚙️ GitHub statistics:
-
-<!-- <table>
-  <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNizamsixmetov&layout=compact"  dasdas lih234 123123
-     
-    </td>
-  </tr>
-</table> -->
 <img height="25px" width="90px" align="left" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnizam&countColor=%23263759" />
 
 <!-- My personal information -->
