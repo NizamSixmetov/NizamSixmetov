@@ -82,16 +82,16 @@ of developers as an instructor.
 
 <td align="left">
 
+<a href="https://pusk-front-8hzz.vercel.app">
+<div><img src="https://img.shields.io/badge/Pusk-090909?style=for-the-badge&logo=react" height="60"></div>
+</a>
+
 <a href="https://afn-transport.vercel.app/">
 <div><img src="https://img.shields.io/badge/Afn_Transport-090909?style=for-the-badge&logo=react" height="60"></div>
 </a>
 
 <a href="https://arch-baku-ecru.vercel.app/">
 <div><img src="https://img.shields.io/badge/Arch_Baku-090909?style=for-the-badge&logo=react" height="60"></div>
-</a>
-
-<a href="https://pusk-front-8hzz.vercel.app">
-<div><img src="https://img.shields.io/badge/Pusk-090909?style=for-the-badge&logo=react" height="60"></div>
 </a>
 
 
