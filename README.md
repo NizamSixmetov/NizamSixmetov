@@ -114,7 +114,7 @@ of developers as an instructor.
 ## ⚙️ GitHub statistics:
 <img height="25px" width="90px" align="left" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnizam&countColor=%23263759" />
 
-<!-- My personal information --> 
+<!--  My personal information  --> 
 
 ##
 <div>
