@@ -115,9 +115,10 @@ of developers as an instructor.
 <img height="25px" width="90px" align="left" alt="webDev's Github Languages" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnizam&countColor=%23263759" />
 
 <!--  My personal information  --> 
-
+<!--  
 ##
 <div>
  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 </div>
+-->
